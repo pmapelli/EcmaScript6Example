@@ -1,7 +1,7 @@
 # EcmaScript6Example
 Exemplo de uma aplicação desenvolvida para aplicar conceitos do ES6
 
-Conceitos aplicados:
+# Conceitos aplicados:
 - Babel
 - Classes
 - Const & Let
